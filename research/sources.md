@@ -117,6 +117,17 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Steve Toth presents practical AI-assisted SEO workflows, explains which tactics are producing measurable results, and discusses how human judgment, topical authority, original insights, and structured processes improve AI-powered content production.
 
+### Patrick Stox
+
+* **Source type:** YouTube conference presentation
+* **Title:** Patrick Stox: GEO? AEO? LLMO? What's With All This AI SEO Stuff? | Ahrefs Evolve 2025
+* **Publisher:** Ahrefs Tutorials
+* **Publication date:** November 21, 2025
+* **Link:** https://www.youtube.com/watch?v=vNFMdcw4uwo
+* **Transcript:** [`youtube-transcripts/patrick-stox-ai-seo-geo-aeo-llmo-2025.md`](youtube-transcripts/patrick-stox-ai-seo-geo-aeo-llmo-2025.md)
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Patrick Stox provides a technical and data-driven explanation of GEO, AEO, LLMO, and AI SEO, including how brands can measure visibility, understand citations, and adapt content and technical SEO practices for AI-powered search systems.
+
 
 ## Research Method
 
