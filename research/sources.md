@@ -106,6 +106,17 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Kevin Indig explains how SEO is moving beyond keywords and clicks toward entity-driven visibility, brand influence, agentic search, proprietary data, context engineering, and AI-assisted execution.
 
+### Steve Toth
+
+* **Source type:** YouTube webinar
+* **Title:** AI SEO After the Hype: What Actually Works in 2026
+* **Publisher:** Surfer
+* **Publication date:** January 22, 2026
+* **Link:** https://www.youtube.com/watch?v=ohPxcZJbQi8
+* **Transcript:** `youtube-transcripts/steve-toth-ai-seo-after-the-hype-2026.md`
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Steve Toth presents practical AI-assisted SEO workflows, explains which tactics are producing measurable results, and discusses how human judgment, topical authority, original insights, and structured processes improve AI-powered content production.
+
 
 ## Research Method
 
