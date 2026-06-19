@@ -150,6 +150,17 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Ryan Law explains a practical AI-assisted content production pipeline, covering keyword selection, research, drafting, quality control, human review, and the process of moving content from an initial idea to a published article.
 
+### Ross Hudgens
+
+* **Source type:** YouTube podcast interview
+* **Title:** AI Visibility, Data Journalism, and the Future of SEO with Ross Hudgens, CEO of Siege Media
+* **Publisher:** Gen Furukawa @ SuperMarketers
+* **Publication date:** December 11, 2025
+* **Link:** https://www.youtube.com/watch?v=8-PS7gR2G0I
+* **Transcript:** `youtube-transcripts/ross-hudgens-ai-visibility-data-journalism.md`
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Ross Hudgens explains how data journalism, original research, digital PR, and authoritative content can improve visibility across traditional search and AI-powered search systems.
+
 
 ## Research Method
 
