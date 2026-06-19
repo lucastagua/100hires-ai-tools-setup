@@ -128,6 +128,17 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Patrick Stox provides a technical and data-driven explanation of GEO, AEO, LLMO, and AI SEO, including how brands can measure visibility, understand citations, and adapt content and technical SEO practices for AI-powered search systems.
 
+### Bernard Huang
+
+* **Source type:** YouTube podcast interview
+* **Title:** Why Traffic Isn’t the KPI Anymore (AI Search Shift Explained) with Bernard Huang
+* **Publisher:** Jolly SEO
+* **Publication date:** March 3, 2026
+* **Link:** https://www.youtube.com/watch?v=10tXsYBEvw4
+* **Transcript:** [`youtube-transcripts/bernard-huang-ai-search-traffic-kpi.md`](youtube-transcripts/bernard-huang-ai-search-traffic-kpi.md)
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Bernard Huang explains why traditional traffic metrics are becoming less useful in AI search, how brands should measure visibility and influence, and how content teams can adapt their strategy to search experiences that answer users directly.
+
 
 ## Research Method
 
