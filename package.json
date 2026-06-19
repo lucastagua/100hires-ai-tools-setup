@@ -1,0 +1,24 @@
+{
+  "name": "100hires-ai-tools-setup",
+  "version": "1.0.0",
+  "description": "This repository documents the first step of the 100Hires portfolio project process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucastagua/100hires-ai-tools-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucastagua/100hires-ai-tools-setup/issues"
+  },
+  "homepage": "https://github.com/lucastagua/100hires-ai-tools-setup#readme",
+  "dependencies": {
+    "@supadata/js": "^1.4.0",
+    "dotenv": "^17.4.2"
+  }
+}
