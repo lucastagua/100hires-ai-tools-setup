@@ -84,6 +84,17 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Mike King explains query fan-out, relevance engineering, AI search citations, multi-platform brand visibility, and practical methods for improving visibility across Google AI results and tools such as ChatGPT.
 
+### Lily Ray
+
+* **Source type:** YouTube podcast interview
+* **Title:** Google's 2026 Crackdown: Lily Ray Says Your SEO Strategy is Failing
+* **Publisher:** Sterling Sky Inc
+* **Publication date:** March 25, 2026
+* **Link:** https://www.youtube.com/watch?v=-pUMNtq8Bp0
+* **Transcript:** [`youtube-transcripts/lily-ray-seo-strategy-ai-search-2026.md`](youtube-transcripts/lily-ray-seo-strategy-ai-search-2026.md)
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Lily Ray explains the risks of scaling AI-generated content, the importance of brand mentions and authority, the impact of AI Overviews on organic traffic, and how SEO teams should adapt content strategies for AI-driven search.
+
 ## Research Method
 
 YouTube transcripts are collected through the Supadata API using the reusable script located at:
