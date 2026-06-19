@@ -95,6 +95,18 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Lily Ray explains the risks of scaling AI-generated content, the importance of brand mentions and authority, the impact of AI Overviews on organic traffic, and how SEO teams should adapt content strategies for AI-driven search.
 
+### Kevin Indig
+
+* **Source type:** YouTube podcast interview
+* **Title:** Moving Beyond Old SEO Models in the Age of AI | Kevin Indig
+* **Publisher:** Advanced Web Ranking
+* **Publication date:** January 19, 2026
+* **Link:** https://www.youtube.com/watch?v=AqAoKGftsSE
+* **Transcript:** [`youtube-transcripts/kevin-indig-old-seo-models-ai-search.md`](youtube-transcripts/kevin-indig-old-seo-models-ai-search.md)
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Kevin Indig explains how SEO is moving beyond keywords and clicks toward entity-driven visibility, brand influence, agentic search, proprietary data, context engineering, and AI-assisted execution.
+
+
 ## Research Method
 
 YouTube transcripts are collected through the Supadata API using the reusable script located at:
