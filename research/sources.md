@@ -139,6 +139,17 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Bernard Huang explains why traditional traffic metrics are becoming less useful in AI search, how brands should measure visibility and influence, and how content teams can adapt their strategy to search experiences that answer users directly.
 
+### Ryan Law
+
+* **Source type:** YouTube podcast interview
+* **Title:** How to automate blog writing with AI from keyword to published | Ryan Law (Ahrefs)
+* **Publisher:** Ahrefs Podcast
+* **Publication date:** April 28, 2026
+* **Link:** https://www.youtube.com/watch?v=iVZrVeESnFQ
+* **Transcript:** `youtube-transcripts/ryan-law-automated-ai-content-pipeline.md`
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Ryan Law explains a practical AI-assisted content production pipeline, covering keyword selection, research, drafting, quality control, human review, and the process of moving content from an initial idea to a published article.
+
 
 ## Research Method
 
