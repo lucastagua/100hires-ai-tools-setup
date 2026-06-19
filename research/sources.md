@@ -161,6 +161,16 @@ The selected experts were chosen for their practical experience, original resear
 * **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
 * **Annotation:** Selected because Ross Hudgens explains how data journalism, original research, digital PR, and authoritative content can improve visibility across traditional search and AI-powered search systems.
 
+### Tim Soulo
+
+* **Source type:** YouTube conference presentation
+* **Title:** Tim Soulo: Where Marketing's Headed And How Ahrefs is Evolving | Ahrefs Evolve 2025
+* **Publisher:** Ahrefs Tutorials
+* **Publication date:** November 21, 2025
+* **Link:** https://www.youtube.com/watch?v=1J26dKqzzgg
+* **Transcript:** `youtube-transcripts/tim-soulo-marketing-ai-ahrefs-evolve-2025.md`
+* **Collection method:** Transcript retrieved through the Supadata API using a reusable Node.js script created with Codex.
+* **Annotation:** Selected because Tim Soulo explains how AI is changing marketing, search visibility, content creation, and the way Ahrefs is adapting its product and strategy to the new search landscape.
 
 ## Research Method
 
