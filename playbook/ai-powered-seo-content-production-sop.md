@@ -218,42 +218,115 @@ Use this SOP for each new article or major content update. Steps are sequential;
 
 ## Where Experts Disagree
 
-### Disagreement 1
+### Disagreement 1 — How much AI automation should be used in content production?
 
-_To be completed._
+**What Ryan Law recommends:** Ryan Law presents AI-assisted content production as a practical workflow that can automate large parts of the process, from keyword research and SERP analysis to drafting and publishing, as long as the workflow is structured and reviewed. (source: Ryan Law, How to automate blog writing with AI from keyword to published, April 28, 2026, https://www.youtube.com/watch?v=iVZrVeESnFQ) (source: Ryan Law, AI Content Wasn't Good Enough. Now It Is., March 16, 2026, https://www.linkedin.com/posts/thinkingslow_ai-content-wasnt-good-enough-now-it-is-activity-7439350229327302656-3JNC)
 
-### Disagreement 2
+**What Lily Ray recommends:** Lily Ray is much more cautious about scaled AI content. She warns that low-quality AI-generated content, manipulative SEO tactics, and content produced mainly for search visibility can create serious long-term risk when Google becomes more aggressive with quality enforcement. (source: Lily Ray, Google's 2026 Crackdown: Lily Ray Says Your SEO Strategy is Failing, March 25, 2026, https://www.youtube.com/watch?v=-pUMNtq8Bp0) (source: Lily Ray, The Worst Thing You Can Do for AI Search Visibility Is Destroy Your SEO, June 2, 2026, https://www.linkedin.com/posts/lily-ray-44755615_the-worst-thing-you-can-do-for-your-ai-search-activity-7467554630458093568-81Xg)
 
-_To be completed._
+**Which side I take and why:** I side with a controlled version of Ryan Law’s workflow, but with Lily Ray’s caution built into the review process. The SOP allows AI to accelerate research, structure, drafting, and repetitive work, but it does not allow fully automated publishing without human review, claim verification, and originality checks. This is the safer position for a B2B SaaS team because it captures the efficiency of AI while reducing the risk of publishing generic or harmful content. (source: Ryan Law, How to automate blog writing with AI from keyword to published, April 28, 2026, https://www.youtube.com/watch?v=iVZrVeESnFQ) (source: Lily Ray, Google's 2026 Crackdown: Lily Ray Says Your SEO Strategy is Failing, March 25, 2026, https://www.youtube.com/watch?v=-pUMNtq8Bp0)
 
-### Disagreement 3
+---
 
-_To be completed._
+### Disagreement 2 — Should teams optimize mainly for traffic or for broader AI visibility?
+
+**What Bernard Huang recommends:** Bernard Huang argues that traffic is no longer a complete KPI because AI search can influence buyers without always sending website visits. He recommends measuring visibility, mentions, influence, and how brands appear inside AI-generated answers. (source: Bernard Huang, Why Traffic Isn't the KPI Anymore (AI Search Shift Explained), March 3, 2026, https://www.youtube.com/watch?v=10tXsYBEvw4)
+
+**What traditional SEO practice usually emphasizes, as reflected in several sources:** Several experts still treat crawlability, rankings, search demand, indexability, and organic performance as important foundations. Aleyda Solís emphasizes that technical foundations affect visibility, and Lily Ray warns that losing Google visibility can damage AI search visibility as well. (source: Aleyda Solís, 202: Aleyda Solís: AI search crawlability and why your site's tech foundations decide visibility, January 13, 2026, https://www.youtube.com/watch?v=pqrwpXpMM6s) (source: Lily Ray, The Worst Thing You Can Do for AI Search Visibility Is Destroy Your SEO, June 2, 2026, https://www.linkedin.com/posts/lily-ray-44755615_the-worst-thing-you-can-do-for-your-ai-search-activity-7467554630458093568-81Xg)
+
+**Which side I take and why:** I take the hybrid position. The SOP does not reject traffic, rankings, or Search Console data, because those are still useful signals. But it treats them as incomplete. For B2B SaaS, the better approach is to measure traditional SEO performance together with AI citations, brand mentions, branded search, sales feedback, and pipeline influence. (source: Bernard Huang, Why Traffic Isn't the KPI Anymore (AI Search Shift Explained), March 3, 2026, https://www.youtube.com/watch?v=10tXsYBEvw4) (source: Patrick Stox, Patrick Stox: GEO? AEO? LLMO? What's With All This AI SEO Stuff? | Ahrefs Evolve 2025, November 21, 2025, https://www.youtube.com/watch?v=vNFMdcw4uwo)
+
+---
+
+### Disagreement 3 — Should AI search optimization focus on owned content or the wider web?
+
+**What Aleyda Solís recommends:** Aleyda Solís emphasizes technical accessibility, crawlability, content structure, and making owned content easier for search engines and AI crawlers to discover and retrieve. (source: Aleyda Solís, 202: Aleyda Solís: AI search crawlability and why your site's tech foundations decide visibility, January 13, 2026, https://www.youtube.com/watch?v=pqrwpXpMM6s) (source: Aleyda Solís, Top SEO & AI Search Updates from SEOFOMO, January 25, 2026, https://www.linkedin.com/posts/aleyda_top-seo-ai-search-updates-from-seofomo-activity-7421667744351260673-UIb3)
+
+**What Michael “Mike” King recommends:** Michael King argues that AI search visibility is not only about optimizing webpages. Brands need visibility across the wider open web, including third-party publications, communities, structured information sources, brand mentions, and other surfaces that AI systems may use or cite. (source: Michael King, Ranking in Google's AI Results in 2026, January 7, 2026, https://www.youtube.com/watch?v=fKJ18NSHzCE) (source: Michael King, Google's Guidance on AI Search Is Naive and Self-Serving, May 18, 2026, https://www.linkedin.com/posts/michaelkingphilly_googles-guidance-on-ai-search-is-naive-and-activity-7462205788187484160-gxDd)
+
+**Which side I take and why:** I take King’s broader view, but only after Aleyda’s technical foundation is in place. A B2B SaaS team should first make sure its owned content is crawlable, clear, and technically accessible. After that, it should build third-party proof through PR, LinkedIn, YouTube, reviews, partner pages, and community mentions. Owned content is the foundation; the wider web is what creates corroboration. (source: Aleyda Solís, 202: Aleyda Solís: AI search crawlability and why your site's tech foundations decide visibility, January 13, 2026, https://www.youtube.com/watch?v=pqrwpXpMM6s) (source: Michael King, Google's Guidance on AI Search Is Naive and Self-Serving, May 18, 2026, https://www.linkedin.com/posts/michaelkingphilly_googles-guidance-on-ai-search-is-naive-and-activity-7462205788187484160-gxDd)
+
+---
 
 ## What I Rejected and Why
 
-### Rejected Idea 1
+### Rejected Idea 1 — Fully automated publishing from keyword to live article
 
-_To be completed._
+Ryan Law demonstrates that AI can automate a large part of the content workflow, including keyword selection, research, drafting, and publication steps. That is useful, but I rejected full automation as a default rule for this SOP because the other sources repeatedly point to the need for human judgment, quality control, originality, and brand-specific context. (source: Ryan Law, How to automate blog writing with AI from keyword to published, April 28, 2026, https://www.youtube.com/watch?v=iVZrVeESnFQ) (source: Lily Ray, Google's 2026 Crackdown: Lily Ray Says Your SEO Strategy is Failing, March 25, 2026, https://www.youtube.com/watch?v=-pUMNtq8Bp0) (source: Ross Hudgens, How Content Teams Should Approach AI Adoption, May 28, 2026, https://www.linkedin.com/posts/rosshudgens_ceocmo-do-we-use-profound-are-we-using-activity-7465776563909890049-fHjh)
 
-### Rejected Idea 2
+**Why I rejected it:** For a B2B SaaS team, publishing wrong or generic information can damage trust, positioning, and buyer confidence. This playbook uses AI for acceleration, but keeps human review, fact-checking, product context, and editorial judgment as mandatory steps. (source: Lily Ray, Google's 2026 Crackdown: Lily Ray Says Your SEO Strategy is Failing, March 25, 2026, https://www.youtube.com/watch?v=-pUMNtq8Bp0) (source: Ryan Law, AI Content Wasn't Good Enough. Now It Is., March 16, 2026, https://www.linkedin.com/posts/thinkingslow_ai-content-wasnt-good-enough-now-it-is-activity-7439350229327302656-3JNC)
 
-_To be completed._
+---
+
+### Rejected Idea 2 — Creating separate “LLM-only” pages for AI search
+
+Steve Toth argues that earning AI citations often still depends on traditional SEO fundamentals, and he warns against treating AI search as a completely separate discipline from SEO. (source: Steve Toth, AI SEO After the Hype: What Actually Works in 2026, January 22, 2026, https://www.youtube.com/watch?v=ohPxcZJbQi8) Patrick Stox also frames AI SEO, GEO, AEO, and LLMO as areas that should be evaluated with data rather than hype or new terminology alone. (source: Patrick Stox, GEO, AEO, LLMO, and AI SEO Research, October 21, 2025, https://www.linkedin.com/posts/patrickstox_geo-aeo-llmo-whats-with-all-this-ai-stuff-activity-7386441351078256640-JYW8)
+
+**Why I rejected it:** I rejected the idea of creating separate pages only for LLMs because it can lead to duplicated, thin, or confusing content. The SOP recommends building strong pages that serve both traditional search and AI retrieval, unless a specific fan-out query justifies a dedicated page with a real user need. (source: Steve Toth, AI SEO After the Hype: What Actually Works in 2026, January 22, 2026, https://www.youtube.com/watch?v=ohPxcZJbQi8) (source: Aleyda Solís, 202: Aleyda Solís: AI search crawlability and why your site's tech foundations decide visibility, January 13, 2026, https://www.youtube.com/watch?v=pqrwpXpMM6s)
+
+---
 
 ## My Original Ideas
 
-### Original Idea 1
+### Original Idea 1 — The “AI Answer QA Board”
 
-_To be completed._
+**Original thinking:** I would add a recurring internal QA process called the **AI Answer QA Board**. Once per month, the content, sales, support, and product teams would collect 20 to 30 real buyer-style prompts related to the company’s category. They would test those prompts across Google AI Overviews, ChatGPT, Gemini, Perplexity, and any other relevant platform. For each answer, they would record whether the brand appears, whether competitors appear, which sources are cited, whether the product is described accurately, and which buyer objections are unanswered.
+
+**Why it could work:** The sources show that AI visibility is spread across multiple platforms, that different AI systems can produce different answers, and that B2B buyers use AI tools to evaluate product fit, integrations, pricing, compliance, and alternatives. The AI Answer QA Board turns those ideas into a recurring operational process instead of a one-time research task. (source: Bernard Huang, AI Search Engines Are Not All the Same, March 4, 2026, https://www.linkedin.com/posts/bernardjhuang_everyone-keeps-saying-ai-is-the-new-search-activity-7435061789035253761-lv81) (source: Steve Toth, B2B AEO Beyond "Just SEO", June 5, 2026, https://www.linkedin.com/posts/stevetothjr_getting-cited-in-ai-overviews-is-just-seo-activity-7468647893676232704-VpE_) (source: Patrick Stox, Patrick Stox: GEO? AEO? LLMO? What's With All This AI SEO Stuff? | Ahrefs Evolve 2025, November 21, 2025, https://www.youtube.com/watch?v=vNFMdcw4uwo)
+
+**How I would implement it:**
+
+1. Collect buyer-style prompts from sales calls, support tickets, internal search, and customer interviews.
+2. Run the same prompt set across several AI platforms.
+3. Record brand presence, competitor presence, cited sources, wrong claims, and missing deal-breaker information.
+4. Convert findings into content updates, PR targets, partner-page updates, review-site updates, and product messaging fixes.
+5. Repeat monthly to observe directional change.
+
+This idea is not directly presented as a named process in the sources, but it combines their recommendations into one repeatable operating system. (source: Bernard Huang, Why Traffic Isn't the KPI Anymore (AI Search Shift Explained), March 3, 2026, https://www.youtube.com/watch?v=10tXsYBEvw4) (source: Michael King, Google's Guidance on AI Search Is Naive and Self-Serving, May 18, 2026, https://www.linkedin.com/posts/michaelkingphilly_googles-guidance-on-ai-search-is-naive-and-activity-7462205788187484160-gxDd)
+
+---
 
 ## Weaknesses of This Playbook
 
-_To be completed._
+1. **The playbook is based on expert research, not on a live experiment.** The recommendations are derived from expert interviews, LinkedIn posts, and source annotations, but they have not been tested on a real B2B SaaS website inside this repository. That means the workflow is plausible, but not yet validated with before-and-after performance data. (scope note: This limitation comes from the repository scope itself: the project contains expert research materials, but no live B2B SaaS implementation test.)
+
+2. **AI visibility measurement is still immature.** Several sources point toward brand mentions, AI citations, prompt tracking, and self-attribution, but these metrics are still less standardized than traditional SEO rankings, clicks, and conversions. (source: Bernard Huang, Why Traffic Isn't the KPI Anymore (AI Search Shift Explained), March 3, 2026, https://www.youtube.com/watch?v=10tXsYBEvw4) (source: Patrick Stox, Patrick Stox: GEO? AEO? LLMO? What's With All This AI SEO Stuff? | Ahrefs Evolve 2025, November 21, 2025, https://www.youtube.com/watch?v=vNFMdcw4uwo)
+
+3. **The workflow may be too heavy for very small teams.** A solo marketer or junior team may not have access to sales-call data, product experts, PR resources, original research, or advanced SEO tooling. The SOP should be treated as a target operating model, not as a rule that every team must implement fully from day one. (source: Ross Hudgens, How Content Teams Should Approach AI Adoption, May 28, 2026, https://www.linkedin.com/posts/rosshudgens_ceocmo-do-we-use-profound-are-we-using-activity-7465776563909890049-fHjh) (source: Kevin Indig, AI SEO Adoption Requires Change Management, February 26, 2026, https://www.linkedin.com/posts/kevinindig_want-an-8x-success-multiplier-on-your-ai-activity-7432767721030754306-iorn)
+
+4. **Some source recommendations come from companies with mature SEO operations.** Ahrefs, Siege Media, iPullRank, and other expert-led organizations have more data, authority, and process maturity than a small B2B SaaS startup. Their advice may need to be simplified before it is practical for a junior team. (source: Tim Soulo, Tim Soulo: Where Marketing's Headed And How Ahrefs is Evolving, November 21, 2025, https://www.youtube.com/watch?v=1J26dKqzzgg) (source: Ross Hudgens, AI Visibility, Data Journalism, and the Future of SEO, December 11, 2025, https://www.youtube.com/watch?v=8-PS7gR2G0I)
+
+5. **The sources are mostly from SEO and content specialists, not buyers.** The playbook assumes that improving AI citations, content quality, and technical accessibility will improve buyer influence, but the repository does not include interviews with actual B2B SaaS buyers. That is a missing validation layer. (source: Bernard Huang, Why Traffic Isn't the KPI Anymore (AI Search Shift Explained), March 3, 2026, https://www.youtube.com/watch?v=10tXsYBEvw4) (source: Steve Toth, B2B AEO Beyond "Just SEO", June 5, 2026, https://www.linkedin.com/posts/stevetothjr_getting-cited-in-ai-overviews-is-just-seo-activity-7468647893676232704-VpE_)
+
+---
 
 ## Who I Would NOT Recommend Following and Why
 
-_To be completed._
+I would not recommend following **Tim Soulo as the primary tactical source** for a junior B2B SaaS team building its first AI-powered SEO content workflow.
+
+This is not because his advice is weak. Tim Soulo is useful for understanding marketing direction, product-led thinking, and how a company like Ahrefs is adapting to AI. However, his material in this research corpus is more strategic and company-level than tactical. A junior team looking for a step-by-step SOP would probably get more immediately actionable guidance from Ryan Law on workflow design, Aleyda Solís on technical accessibility, Steve Toth on B2B answer optimization, or Bernard Huang on AI visibility measurement. (source: Tim Soulo, Tim Soulo: Where Marketing's Headed And How Ahrefs is Evolving, November 21, 2025, https://www.youtube.com/watch?v=1J26dKqzzgg) (source: Tim Soulo, Turning Marketing Workflows into Reusable AI Tools, June 4, 2026, https://www.linkedin.com/posts/timsoulo_once-you-build-your-first-ai-app-youre-activity-7468342056151871488-9Onk) (source: Ryan Law, How to automate blog writing with AI from keyword to published, April 28, 2026, https://www.youtube.com/watch?v=iVZrVeESnFQ) (source: Aleyda Solís, 202: Aleyda Solís: AI search crawlability and why your site's tech foundations decide visibility, January 13, 2026, https://www.youtube.com/watch?v=pqrwpXpMM6s)
+
+I would also be careful about following **Ross Hudgens too literally** if the team lacks resources for data journalism, digital PR, and original research. His recommendations are valuable, but they can be expensive to execute. A smaller SaaS team should adapt his advice into lightweight original assets—small surveys, customer examples, internal data snapshots, or practical templates—before trying to copy a full data-journalism operation. (source: Ross Hudgens, AI Visibility, Data Journalism, and the Future of SEO, December 11, 2025, https://www.youtube.com/watch?v=8-PS7gR2G0I) (source: Ross Hudgens, How Content Teams Should Approach AI Adoption, May 28, 2026, https://www.linkedin.com/posts/rosshudgens_ceocmo-do-we-use-profound-are-we-using-activity-7465776563909890049-fHjh)
+
+---
 
 ## Sources Used
 
-_To be completed._
+This playbook uses the research corpus already collected in this repository:
+
+1. **YouTube transcripts** collected through the Supadata API and stored in `research/youtube-transcripts/`.
+2. **LinkedIn posts** manually collected from public posts and stored in `research/linkedin-posts/`.
+3. **The source index** in `research/sources.md`, which documents each expert, link, publication date, collection method, and annotation.
+
+The main expert sources used were:
+
+* Aleyda Solís — technical SEO, crawlability, AI search accessibility, and structured retrieval.
+* Kevin Indig — AI SEO adoption, organizational change, entity-driven visibility, and search behavior shifts.
+* Michael “Mike” King — query fan-out, relevance engineering, open-web visibility, and AI search citations.
+* Lily Ray — content quality, algorithmic risk, brand authority, and the dangers of manipulative AI-search tactics.
+* Ross Hudgens — data journalism, original research, AI-assisted ideation, and human-reviewed content operations.
+* Steve Toth — practical AI SEO workflows, B2B AEO, answer optimization, and buyer evaluation inside AI tools.
+* Bernard Huang — AI visibility measurement, traffic as an incomplete KPI, and differences between AI search platforms.
+* Patrick Stox — GEO, AEO, LLMO, technical SEO, citations, and data-driven AI search analysis.
+* Ryan Law — AI-assisted content production workflows, automation, editorial review, and content pipeline design.
+* Tim Soulo — strategic marketing direction, reusable AI tools, product-led content, and Ahrefs’ adaptation to AI search.
