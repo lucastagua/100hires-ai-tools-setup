@@ -11,6 +11,23 @@ The research corpus currently includes:
 * 10 YouTube transcript files in [`research/youtube-transcripts/`](research/youtube-transcripts/)
 * 10 LinkedIn post files in [`research/linkedin-posts/`](research/linkedin-posts/)
 * A source index and expert rationale in [`research/sources.md`](research/sources.md)
+* A final Playbook / SOP in [`playbook/ai-powered-seo-content-production-sop.md`](playbook/ai-powered-seo-content-production-sop.md)
+
+## Final Playbook / SOP
+
+The final Playbook / SOP for this research project is available here:
+
+* [`AI-Powered SEO Content Production Playbook / SOP`](playbook/ai-powered-seo-content-production-sop.md)
+
+It includes:
+
+* Core principles
+* A step-by-step SOP
+* Expert disagreements
+* Rejected ideas
+* Original thinking
+* Weaknesses of the playbook
+* A section on which experts I would not recommend following as primary tactical sources
 
 ## Selected Experts
 
@@ -35,6 +52,7 @@ The project uses the existing files as its source of truth:
 * LinkedIn posts were manually collected from public posts and organized by author in [`research/linkedin-posts/`](research/linkedin-posts/).
 * Expert selection, source links, publication details, collection methods, and annotations are documented in [`research/sources.md`](research/sources.md).
 * Each expert currently has one YouTube transcript file and one LinkedIn post file represented in the research folders.
+* The final Playbook / SOP was created from the collected research materials and includes source-backed recommendations, disagreements between experts, rejected ideas, original thinking, weaknesses, and source skepticism.
 
 ## Main Research Themes
 
@@ -53,6 +71,8 @@ Across the collected sources, the research repeatedly returns to these themes:
 |-- README.md
 |-- package.json
 |-- package-lock.json
+|-- playbook/
+|   `-- ai-powered-seo-content-production-sop.md
 |-- scripts/
 |   `-- fetch-youtube-transcript.js
 `-- research/
@@ -65,6 +85,7 @@ Across the collected sources, the research repeatedly returns to these themes:
 
 Key links:
 
+* [`playbook/ai-powered-seo-content-production-sop.md`](playbook/ai-powered-seo-content-production-sop.md)
 * [`research/sources.md`](research/sources.md)
 * [`research/youtube-transcripts/`](research/youtube-transcripts/)
 * [`research/linkedin-posts/`](research/linkedin-posts/)
